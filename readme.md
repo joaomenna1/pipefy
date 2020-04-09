@@ -50,9 +50,7 @@ yarn start
 <a href="https://www.linkedin.com/in/nogueira-menna-barreto/" target="_blank" >
   <img alt="Linkedin - João Nogueira" src="https://img.shields.io/badge/Linkedin--%23F8952D?style=social&logo=linkedin">
 </a>&nbsp;&nbsp;&nbsp;
-<a href="mailto:joaomenna1@gmail.com" target="_blank" >
-  <img alt="Email - joão nogueira" src="https://img.shields.io/badge/Email--%23F8952D?style=social&logo=gmail">
-</a> 
+
 
 ---
 
