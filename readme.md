@@ -1,4 +1,4 @@
-<h1 align="center">
+<h1 align="center" color="#fff" font-size="20px">
    Rocketfy
 </h1>
 
