@@ -23,7 +23,7 @@
 <br>
 
 <p align="center">
-  <img src="https://res.cloudinary.com/dggovyj0p/video/upload/v1586406461/WhatsApp_Video_2020-04-09_at_00.06.48_fjjaeh.mp4" >
+  <img src="https://res.cloudinary.com/dggovyj0p/image/upload/v1586407843/ezgif.com-video-to-gif_xfdozl.gif" >
 </p>
 
 ## :rocket: Built with
